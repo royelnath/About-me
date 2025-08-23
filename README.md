@@ -19,19 +19,19 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=royel.nath&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/UjjalRoy22/langs?time_range=one_year&use_percent=True&include_private=True&group=other&theme=bright_lights)
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/UjjalRoy22/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=bright_lights)
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/royel.nath/langs?time_range=one_year&use_percent=True&include_private=True&group=other&theme=bright_lights)
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/royel.nath/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=bright_lights)
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=UjjalRoy22&show_icons=true&locale=en" alt="UjjalRoy22" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=royel.nath&show_icons=true&locale=en" alt="royel.nath" /></p>
 
 
 
 <!--
-**UjjalRoy22/UjjalRoy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**royel.nath/royel.nath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-![](https://komarev.com/ghpvc/?username=UjjalRoy22)
+![](https://komarev.com/ghpvc/?username=royel.nath)
 
 -
 -->
